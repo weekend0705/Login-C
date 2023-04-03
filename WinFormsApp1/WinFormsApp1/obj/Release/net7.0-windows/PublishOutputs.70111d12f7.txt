@@ -1,5 +1,0 @@
-E:\Test\Login-C\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\app.publish\WinFormsApp1.exe
-E:\Test\Login-C\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\app.publish\WinFormsApp1.dll
-E:\Test\Login-C\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\app.publish\WinFormsApp1.deps.json
-E:\Test\Login-C\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
-E:\Test\Login-C\WinFormsApp1\WinFormsApp1\bin\Release\net7.0-windows\app.publish\WinFormsApp1.pdb
