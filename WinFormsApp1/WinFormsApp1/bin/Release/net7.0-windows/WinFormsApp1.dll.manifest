@@ -62,22 +62,22 @@
       <dsig:DigestValue>3X+hVm7/iyo6bLXwZagrHHvKU1SWaWddioI2oY8X8G0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.dll" size="6144">
+  <file name="WinFormsApp1.dll" size="5632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7rBurCy7UGspGahTVBniXZeJ8xR9N9YbvNz4KVfRAwg=</dsig:DigestValue>
+      <dsig:DigestValue>yAf2z9Z/hVJfiiS2uV+3pfIaT0HLhTcAcJSmTqPbAVU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.exe" size="154112">
+  <file name="WinFormsApp1.exe" size="153600">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NHO45pOBvS8+mSx1+4kJibyJFyC3MlO6nWtrR4wdLA4=</dsig:DigestValue>
+      <dsig:DigestValue>BGXuz/NT15htYDufTaQL/+SFcL/MuL0RZuyfvbCu1cc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WinFormsApp1.runtimeconfig.json" size="372">
