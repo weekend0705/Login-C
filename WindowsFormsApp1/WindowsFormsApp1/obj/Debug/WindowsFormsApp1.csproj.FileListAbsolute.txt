@@ -1,0 +1,16 @@
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Test\Login-C\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
